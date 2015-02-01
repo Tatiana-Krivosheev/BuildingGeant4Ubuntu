@@ -1,0 +1,23 @@
+aptitude
+git
+g++
+gfortran
+nemiver
+qt5-default
+cmake
+libxerces-c-dev
+mesa-utils
+htop
+nvidia-304-dev || fglrx-update-dev
+openssh-server
+sublime-text
+gnuplot-x11
+octave
+fgetty
+p7zip-full
+p7zip-rar
+zlib1g-dev
+libexpat1-dev
+qtiplot
+Russian keyboard, phonetic with WinKeys
+dos2unix
