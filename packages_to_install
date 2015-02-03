@@ -3,7 +3,7 @@ git
 g++
 gfortran
 nemiver
-qt5-default
+qt4-default // qt5-default doesn't work
 cmake
 libxerces-c-dev
 mesa-utils
@@ -13,7 +13,6 @@ openssh-server
 sublime-text
 gnuplot-x11
 octave
-fgetty
 p7zip-full
 p7zip-rar
 zlib1g-dev
