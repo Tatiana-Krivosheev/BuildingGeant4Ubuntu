@@ -1,5 +1,5 @@
 aptitude
-intel-microcode || amd-microcode
+intel-microcode || amd64-microcode
 git
 g++
 gfortran
