@@ -1,4 +1,6 @@
+openssh-server
 aptitude
+gedit
 intel-microcode || amd64-microcode
 git
 g++
@@ -6,18 +8,17 @@ gfortran
 nemiver
 qt4-default // qt5-default doesn't work
 cmake
-libxerces-c-dev
 mesa-utils
 htop
-nvidia-304-dev || fglrx-update-dev
-openssh-server
+original gallium driver seems to work // nvidia-304-dev || fglrx-update-dev
 sublime-text
 gnuplot-x11
 octave
 p7zip-full
 p7zip-rar
+libxerces-c-dev
 zlib1g-dev
 libexpat1-dev
 qtiplot
-Russian keyboard, phonetic with WinKeys
 dos2unix
+Russian keyboard, phonetic with WinKeys
