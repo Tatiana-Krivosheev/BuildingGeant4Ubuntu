@@ -21,4 +21,7 @@ zlib1g-dev
 libexpat1-dev
 qtiplot
 dos2unix
+python-matplotlib
+python3-matplotlib
+
 Russian keyboard, phonetic with WinKeys
