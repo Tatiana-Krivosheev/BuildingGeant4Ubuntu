@@ -24,4 +24,6 @@ dos2unix
 python-matplotlib
 python3-matplotlib
 
+Point "ld" to "ld.gold" linker in /usr/bin
+
 Russian keyboard, phonetic with WinKeys
