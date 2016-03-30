@@ -1,2 +1,2 @@
 #!/bin/sh
-cmake -DGeant4_DIR=/opt/Geant/v4.10.01.p02 -DCMAKE_BUILD_TYPE=Release ~/Documents/Geant4/geant4.10.01.p02/examples/basic/B1/
+cmake -DGeant4_DIR=/opt/Geant/v4.10.01.p02 -DCMAKE_BUILD_TYPE=Release ~/Documents/Geant/geant4.10.01.p02/examples/basic/B1/
