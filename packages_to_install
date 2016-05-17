@@ -24,6 +24,7 @@ dos2unix
 python-matplotlib
 python3-matplotlib
 
+cmake-curses-gui
 libafterimage-dev
 libxmu-dev
 libftgl-dev
