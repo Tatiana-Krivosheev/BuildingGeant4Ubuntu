@@ -24,6 +24,13 @@ dos2unix
 python-matplotlib
 python3-matplotlib
 
+libafterimage-dev
+libxmu-dev
+libftgl-dev
+libfreetype6-dev
+davix-dev
+libxml2-dev
+
 Point "ld" to "ld.gold" linker in /usr/bin
 
 Russian keyboard, phonetic with WinKeys
