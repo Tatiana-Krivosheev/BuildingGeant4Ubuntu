@@ -36,6 +36,8 @@ libxft-dev
 libsqlite3-dev
 libsfftw3-dev
 libgsl-dev
+libglew-dev
+libglewmx-dev
 
 Point "ld" to "ld.gold" linker in /usr/bin
 
