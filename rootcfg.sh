@@ -28,4 +28,4 @@
             --enable-vc \
             --enable-xml \
             --host=linuxx8664gcc \
-            --prefix=/opt/ROOT/v6.06_04
+            --prefix=/opt/ROOT/v6.06_06
