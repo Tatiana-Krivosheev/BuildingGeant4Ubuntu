@@ -2,12 +2,13 @@
 
 ./configure --fail-on-missing \
             --enable-asimage \
-            --enable-builtin-ftgl \
-            --enable-builtin-freetype \
-            --enable-builtin-glew \
-            --enable-builtin-pcre \
-            --enable-builtin-zlib \
-            --enable-builtin-lzma \
+            --disable-builtin-afterimage \
+            --disable-builtin-ftgl \
+            --disable-builtin-freetype \
+            --disable-builtin-glew \
+            --disable-builtin-pcre \
+            --disable-builtin-zlib \
+            --disable-builtin-lzma \
             --enable-cxx14 \
             --enable-davix \
             --enable-fftw3 \
