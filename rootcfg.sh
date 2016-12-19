@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# only for 6.06 and lower
+# for 6.08 and up use CMAKE
+
 ./configure --fail-on-missing \
             --enable-asimage \
             --disable-builtin-afterimage \
