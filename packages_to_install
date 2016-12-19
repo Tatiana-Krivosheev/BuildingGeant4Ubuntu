@@ -38,6 +38,7 @@ libsfftw3-dev
 libgsl-dev
 libglew-dev
 libglewmx-dev
+libssl-dev
 
 Point "ld" to "ld.gold" linker in /usr/bin
 
