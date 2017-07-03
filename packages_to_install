@@ -40,6 +40,8 @@ libglew-dev
 libglewmx-dev
 libssl-dev
 
+libmotif-dev
+
 Point "ld" to "ld.gold" linker in /usr/bin
 
 Russian keyboard, phonetic with WinKeys
